@@ -1,0 +1,9 @@
+name: Spawn
+version: SERVER-VERSION
+main: fr.auretechno.SpawnMain
+api-version: 1.15
+commands:
+  spawn:
+    description: "Get back to spawn"
+  building-mode:
+    description: "Active/Desactive Building Mode"
